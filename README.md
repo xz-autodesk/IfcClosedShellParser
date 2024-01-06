@@ -1,0 +1,2 @@
+# IfcClosedShellParser
+IfcClosedShellParser
